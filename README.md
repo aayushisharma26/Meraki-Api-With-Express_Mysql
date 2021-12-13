@@ -1,5 +1,12 @@
 **Meraki-Api-With-Express_Mysql**
 
+
+**Requirements**↴
+
+    $ MySQL
+    $ knex
+    
+    
 **Installation**:-
    
    
